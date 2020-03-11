@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "B78476A8065A003"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-11-05-22:53:17)
+    (mountForm default
+        (footprintRef "SOIC127P940X585-16N")
+        (spec "System")
+    )
+)

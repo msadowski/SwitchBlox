@@ -1,0 +1,31 @@
+#Padstack Editor Script
+QtSignal MainWindow Units CurrentIndexChanged Millimeter
+QtSignal MainWindow Units activated Millimeter
+QtSignal MainWindow DecimalPlaces CurrentIndexChanged 4
+QtSignal MainWindow DecimalPlaces activated 4
+
+QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+
+#Begin Layer
+QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
+QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+QtSignal GuidedDesignLayersTab PadShape CurrentIndexChanged Rectangle
+QtSignal GuidedDesignLayersTab PadShape activated Rectangle
+QtSignal GuidedDesignLayersTab PadWidth editingFinished 0.8
+QtSignal GuidedDesignLayersTab PadHeight editingFinished 1.85
+
+QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+QtSignal GuidedTabsParent PadstackTypes itemClicked "SMD Pin"
+QtSignal GuidedTabsParent PadstackTypes currentRowChanged 1
+QtSignal GuidedTabsParent PadstackTypes itemSelectionChanged "SMD Pin"
+QtSignal GuidedTabsParent PadstackTypes itemClicked "SMD Pin"
+QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+QtSignal OptionsTab SuppressPadsOption clicked true
+
+QtSignal MainWindow Check triggered
+QtSignal MainWindow SaveAs triggered
+QtFillin r185_80
+QtFillin Yes
+
+QtSignal MainWindow Exit triggered
+#End of Pad Editor Script

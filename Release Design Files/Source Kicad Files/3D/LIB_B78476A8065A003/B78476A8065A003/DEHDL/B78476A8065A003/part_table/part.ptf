@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'B78476A8065A003'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "EPCOS", "B78476A8065A003" (!) = "", "SOIC127P940X585-16N", "Small Outline Packages", "871-B78476A8065A3", "https://www.mouser.com/Search/Refine.aspx?Keyword=871-B78476A8065A3", "EPCOS - B78476A8065A003 - TRANSFORMER, LAN, SINGLE, 10/100 BASE T", "https://componentsearchengine.com/Datasheets/1/B78476A8065A003.pdf", "5.85 mm"
+END_PART
+
+END.

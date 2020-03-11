@@ -1,0 +1,39 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Voltage Rating,MPN,Tolerance,Field8,Field4,Field6,Field5
+1,Unpolarized capacitor,C_Small,C3 C4,0.1u,C_0603,2,~,50V,CL10B104MB8NNNC,,,,,
+2,Unpolarized capacitor,C_Small,C23 C24 C25 C26 C27 C28,1000p,C_0402,6,~,50V,GCM155R71H102KA37D,,,,,
+3,Unpolarized capacitor,C_Small,C5 C6 C7 C8 C9 C10 C11 C12 C13 C14 C17 C18 C19 C20 C21 C22 C29 C30 C31 C32 C33 C34 C35 C36 C37 C38 C39 C40,1u,C_0402,28,~,10V,CL05A105MP5NNNC,,,,,
+4,Unpolarized capacitor,C_Small,C15 C16,22p,C_0402,2,~,50V,CBR04C220F5GAC,,,,,
+5,Polarised capacitor,CP1_Small,C1 C2,22u,"Radial, Can - SMD",2,~,50V,865080643008,,,,,
+6,"Dual diode, common cathode",D_x2_KCom_AAK,D1,36Vb,SOT-23,1,~,,DESD34VS2SO-7,,,,,
+7,LED generic,LED,D2 D3 D5 D7 D9 D11,Green,LED_0603,6,~,,150060GS75000,,,,,
+8,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06_Male,J8,2x3,2x3_2mm,1,~,,,,,,,
+9,,CONN_HEADER_V_2,J1 J2,CONN_HEADER_V_2,WM1731-ND,2,,,0530470210,,,,,
+10,,CONN_HEADER_V_5,J3 J4 J5 J6 J7,CONN_HEADER_V_5,WM1734-ND,5,,,0530470510,,,,,
+11,"Ferrite bead, small symbol",Ferrite_Bead_Small,L1 L2,Ferrite,R_0603,2,~,,MPZ1608S101ATAH0,,,,,
+12,"Net Tie, 2 pins",Net-Tie_2,NT1,Net-Tie_2,NETTIE,1,~,,DNI,,,,,
+13,"Resistor, small symbol",R_Small,R1 R2 R3 R4 R6 R7,10k,R_0402,6,~,,RR0510P-103-D,,,,,
+14,"Resistor, small symbol",R_Small,R8,12.4k,R_0402,1,~,,RR0510P-1242-D,0.5%,,,,
+15,"Resistor, small symbol",R_Small,R9 R10 R12 R14 R16 R18,220R,R_0402,6,~,,RR0510P-221-D,,,,,
+16,"Resistor, small symbol",R_Small,R5 R11 R13 R15 R17 R19,75R,R_0402,6,~,,ERJ-2RKF75R0X,,,,,
+17,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,"Tact, SMT",1,,,KMR621NG LFS,,,,,
+18,,H1102FNL,T1,H1102FNL,H1102FNL,1,,,H1102FNL,,,,,
+19,,H1164NL,T2,H1164NL,H1164NL,1,,,H1164NL,,,,,
+20,,DC-DC,U3,DC-DC,OKI-78SR-5_1.5-W36HC,1,,,OKI-78SR-5/1.5-W36H-C,,,,,
+21,,KSZ8895MQXCA,U6,KSZ8895MQXCA,PQFP-128,1,576-4855-ND,,KSZ8895MQXCA,,KSZ8895 Series 3.3 V 129 mA Integrated 5-Port 10/100 Managed Ethernet Switch,https://www.digikey.com/product-detail/en/microchip-technology/KSZ8895MQXCA/576-4855-ND/4901386?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol,Microchip,BFQFP-128 Microchip
+22,,SOT-23-5,U4 U5,SOT-23-5,SOT23-5,2,,,MIC5504-3.3YM5-TR MIC5504- 1.2YM5-TR,,,,,
+23,Two pin crystal,Crystal,Y1,25MHz,"2-SMD, No Lead",1,~,,ECS-250-20-3X-TR,,,,,
+
+
+
+
+
+Component Groups:,23
+Component Count:,85
+Fitted Components:,85
+Number of PCBs:,1
+Total components:,85
+Schematic Version:,
+Schematic Date:,
+BoM Date:,11/3/2018 00:00:17
+Schematic Source:,D:\DawnSpark\_Upwork\SwitchBlox-master\Release Design Files\SwitchBlox.sch
+KiCad Version:,Eeschema (5.0.0)

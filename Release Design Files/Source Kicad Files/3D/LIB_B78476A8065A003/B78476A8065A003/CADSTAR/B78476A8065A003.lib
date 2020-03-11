@@ -1,0 +1,16 @@
+.B78476A8065A003 :1 ;EPCOS - B78476A8065A003 - TRANSFORMER, LAN, SINGLE, 10/100 BASE T
+SOIC127P940X585-16N
+*STM T
+*NGS
+*PLB 1="TD+" 2="CT_1" 3="TD-" 4="NC_1" 5="NC_2" 6="RD+" 7="CT_2" 8="RD-" 9="RX-" 10="CT_3" 11="RX+" 12="NC_3" 13="NC_4" 14="TX-" 15="CT_4" 16="TX+"
+*MXP 16
+*DFN B78476A8065A003
+~!Mouser Part Number (871-B78476A8065A3)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=871-B78476A8065A3)
+~!Manufacturer_Name (EPCOS)
+~!Manufacturer_Part_Number (B78476A8065A003)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/B78476A8065A003.pdf)
+~!Height (5.85mm)
+~!3D_Model (B78476A8065A003)
+B78476A8065A003
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

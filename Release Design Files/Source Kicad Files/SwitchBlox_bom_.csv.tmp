@@ -1,0 +1,37 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Voltage Rating,MPN,Tolerance,Field8,Field4,Field6,Field5
+1,Unpolarized capacitor,C_Small,C3 C4,0.1u,C_0603,2,~,50V,CL10B104MB8NNNC,,,,,
+2,Unpolarized capacitor,C_Small,C5 C6 C7 C8 C9 C10 C11 C12 C13 C14 C17 C18 C19 C20 C21 C22 C23 C24 C25 C26 C27 C28,1u,C_0402,22,~,10V,CL05A105MP5NNNC,,,,,
+3,Unpolarized capacitor,C_Small,C15 C16,22p,C_0402,2,~,50V,CBR04C220F5GAC,,,,,
+4,Polarised capacitor,CP1_Small,C1 C2,22u,"Radial, Can - SMD",2,~,50V,865080643008,,,,,
+5,"Dual diode, common cathode",D_x2_KCom_AAK,D1,36Vb,SOT-23,1,~,,DESD34VS2SO-7,,,,,
+6,LED generic,LED,D3 D5 D7 D9 D11,Green,LED_0603,5,~,,150060GS75000,,,,,
+7,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08_Male,J1,1x8,DNP,1,~,,,,,,,
+8,"Ferrite bead, small symbol",Ferrite_Bead_Small,L1 L2,F,R_1206,2,~,,BLM31KN601SH1L,,,,,
+9,"Net Tie, 2 pins",Net-Tie_2,NT1,Net-Tie_2,Pad,1,~,,,,,,,
+10,,CONN_HEADER_V_5,P1 P2 P3 P4 P5,CONN_HEADER_V_5,WM1734-ND,5,,,0530470510,,,,,
+11,"Resistor, small symbol",R_Small,R1 R2 R3 R4 R5 R6 R7,10k,R_0402,7,~,,RR0510P-103-D,,,,,
+12,"Resistor, small symbol",R_Small,R8,12.4k,R_0402,1,~,,RR0510P-1242-D,0.5%,,,,
+13,"Resistor, small symbol",R_Small,R10 R12 R14 R16 R18,3.3k,R_0402,5,~,,RC0402FR-073K3L,,,,,
+14,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,"Tact, SMT",1,,,KMR621NG LFS,,,,,
+15,,H1102FNL,T1,H1102FNL,H1102FNL,1,,,H1102FNL,,,,,
+16,,H1164NL,T2,H1164NL,H1164NL,1,,,H1164NL,,,,,
+17,,CONN_HEADER_V_2,U1 U2,CONN_HEADER_V_2,WM1731-ND,2,,,,,,,,
+18,,DC-DC,U3,DC-DC,OKI-78SR-5_1.5-W36HC,1,,,OKI-78SR-5/1.5-W36H-C,,,,,
+19,,KSZ8895MQXCA,U6,KSZ8895MQXCA,PQFP-128,1,576-4855-ND,,KSZ8895MQXCA,,KSZ8895 Series 3.3 V 129 mA Integrated 5-Port 10/100 Managed Ethernet Switch,https://www.digikey.com/product-detail/en/microchip-technology/KSZ8895MQXCA/576-4855-ND/4901386?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol,Microchip,BFQFP-128 Microchip
+20,,SOT-23-5,U4 U5,SOT-23-5,SOT23-5,2,,,MIC5504-3.3YM5-TR MIC5504- 1.2YM5-TR,,,,,
+21,Two pin crystal,Crystal,Y1,25MHz,"2-SMD, No Lead",1,~,,ECS-250-20-3X-TR,,,,,
+
+
+
+
+
+Component Groups:,21
+Component Count:,66
+Fitted Components:,66
+Number of PCBs:,1
+Total components:,66
+Schematic Version:,
+Schematic Date:,
+BoM Date:,10/15/2018 06:28:15
+Schematic Source:,D:\DawnSpark\_Upwork\SwitchBlox-master\Release Design Files\SwitchBlox.sch
+KiCad Version:,Eeschema (5.0.0)
