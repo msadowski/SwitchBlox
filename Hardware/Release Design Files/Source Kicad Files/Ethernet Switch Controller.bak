@@ -5,10 +5,10 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 3 4
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "SwitchBlox"
+Date "2020-03-11"
+Rev "B"
+Comp "BotBlox"
 Comment1 ""
 Comment2 ""
 Comment3 ""
