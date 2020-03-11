@@ -1,0 +1,3 @@
+Firmware driver to talk to SwitchBlox over the SPI header will go here.
+
+This will allow SwitchBlox to be configured with custom behaviours.
